@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Coongabc
-- 👀 I’m interested in How to intergrate tech into Business.
+- 👀 I’m interested in How to intergrate Tech into Business.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on resource management system such as ERP.
 - 📫 How to reach me: please email me @ doantiencong@gmail.com
